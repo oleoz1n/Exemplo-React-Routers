@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function EditarProdutos() {
   return (
-    <div>index</div>
+    <main>
+      <h1></h1>
+    </main>
   )
 }
